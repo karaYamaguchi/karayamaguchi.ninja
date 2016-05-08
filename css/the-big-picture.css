@@ -1,0 +1,156 @@
+/*!
+ * Start Bootstrap - The Big Picture HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+.full {
+  background: url("../img/background.jpg") no-repeat center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.landing-text {
+    background-color: rgba(100, 100, 100, 0.7);
+    border-radius: 25px;
+    color: #fff;
+}
+
+.landing-text .header {
+    font-family: 'Pacifico', cursive; 
+    text-align: center;
+}
+
+.landing-text .paragraph {
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Poiret One', cursive;
+}
+
+.social-header {
+    font-family: 'Pacifico', cursive; 
+    text-align: center;
+}
+
+.social-list .social-link {
+    font-size: 23px;
+}
+
+.btn-social {
+    color: #fff;
+}
+
+.btn-social:hover {
+    color: #aaa;
+}
+
+.social-list {
+    text-align: center;
+}
+
+.navbar {
+    font-size: 20px;
+    font-family: 'Pacifico', cursive; 
+    background-color: rgba(51, 102, 153, 0.8);
+    color: white;
+}
+
+.navbar-header {
+    border-color: #fff;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-family: 'Pacifico', cursive; 
+}
+
+.navbar-toggle {
+    color: #fff;
+}
+
+.navbar-toggle:active {
+    color: #336699;
+}
+
+.navbar-toggle:hover {
+    color: #336699;
+} 
+
+.navbar-toggle:focus {
+    color: #336699;
+}
+
+.navbar-toggle:visited {
+    color: #336699;
+}
+
+.modal-content {
+    background-color: #336699;
+}
+
+.modal-title {
+    font-family: 'Pacifico', cursive; 
+    color: #fff;
+}
+
+.modal-body {
+    color: #fff;
+    font-family: 'Poiret One', cursive;
+}
+
+.primary {
+    font-family: 'Poiret One', cursive;
+}
+
+.close-modal {
+    background-color: transparent;
+    border-color: transparent;
+    color: white;
+    font-family: 'Poiret One', cursive;
+}
+
+.close-modal:hover {
+    background-color: transparent;
+    border-color: #fff;
+    color: white;
+    font-family: 'Poiret One', cursive;
+}
+
+.close:hover {
+    color: #fff;
+}
+
+.btn-awc {
+    background-color: transparent;
+    border-color: #fff;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.btn-awc:hover {
+    background-color: #fff;
+    border-color: #fff;
+    color: #336699;
+}
+
+.modal-subtext {
+    font-size: 13px;
+}
+
+a {
+    color: #fff;
+}
+
+a:hover {
+   text-decoration: none; 
+   border-color: #fff;
+   border-radius: 25px;
+}
