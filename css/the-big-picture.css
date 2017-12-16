@@ -158,3 +158,11 @@ a:hover {
 a:active {
   border: none;
 }
+
+a:visited {
+  border: none;
+}
+
+a:focus {
+  border: none;
+}
